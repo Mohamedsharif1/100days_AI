@@ -1,6 +1,6 @@
-# 100 Days in AI: From Beginner to Advanced
+100 cisho ku baro AI
 
-Welcome to the 100 Days in AI journey! This roadmap will guide you through a comprehensive learning path, from the basics to advanced concepts in Artificial Intelligence.
+XOGTAN HOOSE WAXA KU JIRA JID(ROADMAP) DHAMMAYSTIRAN OO KUGU HAGAYA INAD BOQOL CISHO KU BARATO CILMIGA Artificial intelligence (AI) WAXAN RAJAYNAYAA INUU AAD IDIIN CAAWIN DOONO GAAR AHAAN DHALINYARADA DANAYNAYSA INEY CILMIGAN KA GAADHAN DARAJO WANAGSAN
 
 ## Table of Contents
 
@@ -366,7 +366,7 @@ Before you begin, make sure you have the following:
 
 - **join our somali programmers community[https://facebook.com/groups/somaliprogrammers/] and [Reddit's https://www.reddit.com/r/SomaliProgrammers/)
 - **Practice regularly**: Engage in challenges on platforms like [Kaggle](https://www.kaggle.com/) and [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-ai)
-- **Stay updated**: Follow AI news and research papers on [ArXiv](https://arxiv.org/) and [AI conferences](https://conferenceindex.org/conferences/artificial-intelligence)
+- **Stay updated**: TO STAY UPDATED IN LAST TECHNOLOGY NEWS,TRENDS,TRICKS AND MORE STAY CONNECT TO THE OFFICAIL FACEBOOK ACCOUNT OF MOHAMED SHARIF MUKTAR[https://www.facebook.com/mohamedsharifmukhtar]
 
 ## Conclusion
 
