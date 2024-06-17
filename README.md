@@ -364,7 +364,7 @@ Before you begin, make sure you have the following:
 
 ## Additional Recommendations
 
-- **Join AI communities**: Participate in forums like [AI Stack Exchange](https://ai.stackexchange.com/) and [Reddit's r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
+- **join our somali programmers community[https://facebook.com/groups/somaliprogrammers/] and [Reddit's https://www.reddit.com/r/SomaliProgrammers/)
 - **Practice regularly**: Engage in challenges on platforms like [Kaggle](https://www.kaggle.com/) and [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-ai)
 - **Stay updated**: Follow AI news and research papers on [ArXiv](https://arxiv.org/) and [AI conferences](https://conferenceindex.org/conferences/artificial-intelligence)
 
